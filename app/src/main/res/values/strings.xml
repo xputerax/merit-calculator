@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Merit Calculator</string>
+    <string name="science_help_dialog_text">
+        Biologi boleh digantikan dengan mata pelajaran berikut: Pengajian Kejuruteraan Awam/ Elektrik &amp; Elektronik/ Mekanikal/ Reka Cipta/ Lukisan Kejuruteraan/ Teknologi Kejuruteraan/ Ekonomi Rumah Tangga/ Sains Pertanian/ Teknologi Maklumat/ Prinsip Akaun/ Perdagangan/ Ekonomi Asas/ Pengetahuan Sains Sukan / Pengurusan Makanan
+    </string>
+
+    <string name="lit_help_dialog_text">
+        Pend. Islam boleh digantikan dengan mata pelajaran berikut: Pendidikan Syariah Islamiah / Pengajian Al-Quran &amp; Al-Sunnah / Pendidikan Moral.
+    </string>
+</resources>

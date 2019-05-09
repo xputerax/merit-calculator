@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="grades">
+        <item>A+</item>
+        <item>A</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B</item>
+        <item>C+</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>G</item>
+    </string-array>
+
+    <integer-array name="grade_points">
+        <item>18</item>
+        <item>16</item>
+        <item>14</item>
+        <item>12</item>
+        <item>10</item>
+        <item>8</item>
+        <item>6</item>
+        <item>4</item>
+        <item>2</item>
+        <item>0</item>
+    </integer-array>
+</resources>
